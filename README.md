@@ -1,4 +1,4 @@
-## AI-Based Attendance Tracking System
+# AI-Based Attendance Tracking System
 # Project Overview
 
 This project is an AI-based attendance tracking system that automatically records employee attendance using facial recognition technology. The system is trained on images of registered employees and uses a live camera feed to detect and identify individuals in real time.
